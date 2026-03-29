@@ -2,7 +2,7 @@
 
 A simple test project to display the [CIE 1931 xy chromaticity diagram](https://en.wikipedia.org/wiki/CIE_1931_color_space).
 
-- 1. Adding points via hex format
-- 2. Display color in RGB when hovering over a diagram
+- Adding points via HEX format
+- Displays the coordinates of a point and its color in RGB format when you hover over the chart
 
-![CIE 1931 xy chromaticity diagram](app.png)
+<img src="app.png" width="400" height="500" alt="CIE 1931 xy chromaticity diagram">
